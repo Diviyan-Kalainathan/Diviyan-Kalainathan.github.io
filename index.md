@@ -3,13 +3,9 @@ layout: default
 ---
 # Welcome on my webpage !
 
-In construction though. ;_;
+I'm a second year PhD student in Université Paris-Saclay, LRI, Inria, working on causality under the supervision of Isabelle Guyon, Michèle Sebag and Philippe Caillou. My background is mostly of Computer Science and Machine Learning.   
 
-# Summary
-
-
-# Fields of interest
-My main field of research -my PhD subject- is causal discovery out of observational data, in the directed graph setting. I'm also interested in :
+My main field of research -my PhD subject- is causal discovery out of observational data for social sciences, in the directed graph setting. I'm also interested in :
 
 1. Generative models
 2. Reinforcement Learning
@@ -17,8 +13,14 @@ My main field of research -my PhD subject- is causal discovery out of observatio
 
 # Publications
 
-1. **Learning Functional Causal Models with Generative Neural Networks**, ArXiv, 2017,
-Olivier Goudet, Diviyan Kalainathan, Philippe Caillou, David Lopez-Paz, Isabelle Guyon, Michèle Sebag, Aris Tritas
++ **Learning Functional Causal Models with Generative Neural Networks**, 2017, ArXiv,
+
+   Olivier Goudet, Diviyan Kalainathan, Philippe Caillou, David Lopez-Paz, Isabelle Guyon, Michèle Sebag, Aris Tritas
+
++ **Portraits de travailleurs**, 2017, La Fabrique de l'Industrie,
+
+   Diviyan Kalainathan, Olivier Goudet, Philippe Caillou, Michèle Sebag, Paola Tubaro, Emilie Bourdu, Thierry Weil
+
 
 # Causal Discovery Toolbox
 Along with my reasearch work, with Olivier Goudet we are developing a python 3 package for causal discovery out of observational data. 

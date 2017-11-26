@@ -1,5 +1,37 @@
 title: Diviyan Kalainathan
-description: PhD student at Université Paris-Saclay, under the supervision of Isabelle Guyon, Michèle Sebag and Philippe Caillou
+description: PhD student on Causal Discovery at Université Paris-Saclay 
+name: Diviyan Kalainathan
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/diviyan.jpg"
+  bio              : "PhD Student under the supervision of Isabelle Guyon, Michèle Sebag and Philippe Caillou"
+  location         : "Université Paris-Saclay, LRI, Inria"
+  email            :
+  uri              : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : "diviyan-kalainathan"
+  gitlab           : "diviyan"
+  google_plus      :
+  keybase          :
+  instagram        : 
+  lastfm           :
+  linkedin         : "diviyan-kalainathan-112a9a92"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :	
