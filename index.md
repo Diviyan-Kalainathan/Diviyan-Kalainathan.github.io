@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Welcome on my webpage !
 
 I'm a second year PhD student in Université Paris-Saclay, LRI, Inria, working on causality under the supervision of Isabelle Guyon, Michèle Sebag and Philippe Caillou. My background is mostly of Computer Science and Machine Learning.   
 
@@ -13,11 +12,11 @@ My main field of research -my PhD subject- is causal discovery out of observatio
 
 # Publications
 
-+ **Learning Functional Causal Models with Generative Neural Networks**, 2017, ArXiv,
++ [**Learning Functional Causal Models with Generative Neural Networks**](https://arxiv.org/abs/1709.05321), 2017, ArXiv,
 
    Olivier Goudet, Diviyan Kalainathan, Philippe Caillou, David Lopez-Paz, Isabelle Guyon, Michèle Sebag, Aris Tritas
 
-+ **Portraits de travailleurs**, 2017, La Fabrique de l'Industrie,
++ [**Portraits de travailleurs**](http://www.la-fabrique.fr/fr/publication/portraits-de-travailleurs-comprendre-la-qualite-de-vie-au-travail/), 2017, La Fabrique de l'Industrie,
 
    Diviyan Kalainathan, Olivier Goudet, Philippe Caillou, Michèle Sebag, Paola Tubaro, Emilie Bourdu, Thierry Weil
 
@@ -35,5 +34,7 @@ It is still in development, but many of its features are already available. It i
 
 The package is available at : [https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox](https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox) 
 
-# Curriculum Vitae
+# Resume
+
+
 
