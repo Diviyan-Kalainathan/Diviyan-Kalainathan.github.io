@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![DiviyanK](/assets/images/diviyan_crop.jpg){:class="img-responsive"}{:height="280px" width="280px"}{:style="float: right; margin-right: 5px"}
 I'm a second year PhD student in Université Paris-Saclay, LRI, Inria, working on causality under the supervision of Isabelle Guyon, Michèle Sebag and Philippe Caillou. My background is mostly of Computer Science and Machine Learning.   
 
 My main field of research -my PhD subject- is causal discovery out of observational data for social sciences, in the directed graph setting. I'm also interested in :
@@ -34,7 +35,6 @@ It is still in development, but many of its features are already available. It i
 
 The package is available at : [https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox](https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox) 
 
-# Resume
 
 
 
