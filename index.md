@@ -11,11 +11,21 @@ My main field of research -my PhD subject- is causal discovery out of observatio
 2. Reinforcement Learning
 3. Computer hardware 
 
+I also install/manage clusters under the SLURM batch scheduler, like the 28-GPU cluster at the TAU team. (Also developing  python tools to run jobs without trouble. Check out my GitHub repo !)
+
 # Publications
 
-+ [**Learning Functional Causal Models with Generative Neural Networks**](https://arxiv.org/abs/1709.05321), 2017, ArXiv,
++ [**SAM: Strutural Agnostic Model, Causal Discovery and Penalized Adversarial Learning**](https://arxiv.org/abs/1803.04929), [code](https://github.com/Diviyan-Kalainathan/SAM),  2018, ArXiv,
 
-   Olivier Goudet, Diviyan Kalainathan, Philippe Caillou, David Lopez-Paz, Isabelle Guyon, Michèle Sebag, Aris Tritas
+   Diviyan Kalainathan, Olivier Goudet, Isabelle Guyon, David Lopez-Paz, Michèle Sebag
+
++ [**Causal Generative Neural Networks**](https://arxiv.org/abs/1711.08936), [code](https://github.com/GoudetOlivier/CGNN), 2017, ArXiv,
+
+   Olivier Goudet, Diviyan Kalainathan, Philippe Caillou, Isabelle Guyon, David Lopez-Paz, Michèle Sebag
+
++ [**Learning Functional Causal Models with Generative Neural Networks**](https://arxiv.org/abs/1709.05321), [code](https://github.com/GoudetOlivier/CGNN), 2017, ArXiv,
+
+   Olivier Goudet, Diviyan Kalainathan, Philippe Caillou, David Lopez-Paz, Isabelle Guyon, Michèle Sebag, Aris Tritas, Paola Tubaro
 
 + [**Portraits de travailleurs**](http://www.la-fabrique.fr/fr/publication/portraits-de-travailleurs-comprendre-la-qualite-de-vie-au-travail/), 2017, La Fabrique de l'Industrie,
 
